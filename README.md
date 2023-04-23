@@ -1,2 +1,2 @@
 # AndroidStudio
-Android Studio Lab
+Android Studio Lab/Practices
